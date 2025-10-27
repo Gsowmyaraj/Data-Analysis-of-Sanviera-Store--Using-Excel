@@ -2,9 +2,6 @@
 
 This repository contains the Sanviera Store Annual Report Dashboard, an analytical project designed to transform raw sales data into actionable business intelligence. It focuses on a comprehensive analysis of sales metrics to support strategic growth initiatives. The core of this project is an Excel-based dashboard providing a multi-dimensional view of key performance indicators, including customer behavior patterns, regional market performance, and sales channel efficacy.
 
-## Preview
-![Dashboard Preview](https://github.com/minhaj-313/Vrinda-Store-Annual-Report---Data-Analyst-Project/blob/main/Stote%20Data%20Analysis%20Using%20Excel%20-%20Dashboard.png)
-
 ## Objective
 The Sanviera Store Annual Report Dashboard project is designed to translate raw sales data into high-level strategic insights. Its central aim is to analyze customer behavior patterns and emerging market trends, providing a data-driven foundation to enhance decision-making and drive sustainable business growth.
 
